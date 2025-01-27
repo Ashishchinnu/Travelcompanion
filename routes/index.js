@@ -7,7 +7,7 @@ router.get('/', function(req, res) {
       title: 'Taj Mahal, Agra',
       text: 'One of the Seven Wonders of the World, this white marble mausoleum is a symbol of love and a masterpiece of Mughal architecture.',
       image: 'https://images.unsplash.com/photo-1576487248805-cf45f6bcc67f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW5kaWElMjB0b3VyaXNtfGVufDB8fDB8fHww',
-      url: 'https://www.google.com/maps?q=tajmahal'
+      url: 'https://www.google.com/maps/search/Taj+Mahal'
     },
     {
       title: 'Jaipur, Rajasthan',
@@ -45,31 +45,31 @@ router.get('/karnataka', function(req, res) {
       title: 'Mysore',
       text: ' Famous for its majestic Mysore Palace, Chamundi Hill, and vibrant Dasara festival.',
       image: 'https://t3.ftcdn.net/jpg/04/27/06/88/240_F_427068895_qZ4viQMCfLhhrDehOZQHJ4JlEbzUHH2y.jpg',
-      url: 'https://www.google.com/maps?q=tajmahal'
+      url: 'https://www.google.com/maps?q=mysuru'
     },
     {
       title: 'Coorg (Kodagu)',
       text: 'Known for its coffee plantations, scenic landscapes, and trekking opportunities.',
       image: 'https://t3.ftcdn.net/jpg/02/17/08/52/240_F_217085201_za2x43SqjJ4AlLHFZp6IucENpvOCIvE7.jpg',
-      url: 'https://www.google.com/maps?q=jaipur'
+      url: 'https://www.google.com/maps?q=kodagu'
     },
     {
       title: 'Hampi',
       text: 'A UNESCO World Heritage Site renowned for its ancient temples, ruins, and boulder-strewn landscapes.',
       image: 'https://t4.ftcdn.net/jpg/01/76/96/95/240_F_176969506_rXY3bhKvvzstGg024i8kbgSOqyy1ZMbH.jpg',
-      url: 'https://www.google.com/maps?q=Kerala'
+      url: 'https://www.google.com/maps?q=hampi'
     },
     {
       title: 'Gokarna',
       text: ' A laid-back coastal town known for its pristine beaches and religious significance.',
       image: 'https://t4.ftcdn.net/jpg/04/80/92/03/240_F_480920340_QHSYyrRwu3l9pRAMz5veBrokFAsWdP6Y.jpg',
-      url: 'https://www.google.com/maps?q=varanasi'
+      url: 'https://www.google.com/maps?q=gokarna'
     },
     {
-      title: 'Chikmagalur',
+      title: 'Chikkmagaluru',
       text: 'Known for its coffee estates, scenic hills, and trekking spots like Mullayanagiri, the highest peak in Karnataka.',
       image: 'https://plus.unsplash.com/premium_photo-1697729594707-0fc9e51c8eed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGdvYXxlbnwwfHwwfHx8MA%3D%3D',
-      url: 'https://www.google.com/maps?q=goa'
+      url: 'https://www.google.com/maps?q=chikkamagaluru'
     }
   ];
 
