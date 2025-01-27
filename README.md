@@ -1,4 +1,4 @@
-# travelMate 
+# Travel Companion
 ## Features
 - place recommendation
 - ai intergration
