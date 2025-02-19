@@ -1,7 +1,7 @@
 # Travel Companion
 ## Features
 - place recommendation
-- ai intergration
+- ai integration
 - custome plan
 - place reviews
 
