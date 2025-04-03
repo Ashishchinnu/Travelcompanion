@@ -10,5 +10,4 @@ Result :
 ![image](https://github.com/user-attachments/assets/064ce73e-7f9d-4bed-a61b-ce706d7215ed)
 
 Demo 
-https://vercel.com/ashish-reddy-as-projects/travelcompanion
 https://travelcompanion-ten.vercel.app/
